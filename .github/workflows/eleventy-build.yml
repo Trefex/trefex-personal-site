@@ -1,8 +1,8 @@
-name: Eleventy Build Dev
+name: Eleventy Build
 on: [push]
 
 jobs:
-  build-dev:
+  build-deploy:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
