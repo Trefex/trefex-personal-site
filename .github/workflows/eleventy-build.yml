@@ -1,6 +1,9 @@
 name: Eleventy Build
 on: [push]
 
+permissions:
+  contents: write
+
 jobs:
   build-deploy:
     runs-on: ubuntu-latest
