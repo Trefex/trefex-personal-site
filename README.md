@@ -1,0 +1,1 @@
+[![pages-build-deployment](https://github.com/Trefex/trefex-personal-site/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/Trefex/trefex-personal-site/actions/workflows/pages/pages-build-deployment)
