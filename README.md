@@ -1,1 +1,2 @@
 [![pages-build-deployment](https://github.com/Trefex/trefex-personal-site/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/Trefex/trefex-personal-site/actions/workflows/pages/pages-build-deployment)
+[![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=Trefex_trefex-personal-site&metric=alert_status)](https://sonarcloud.io/summary/new_code?id=Trefex_trefex-personal-site)
